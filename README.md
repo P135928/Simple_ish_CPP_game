@@ -1,2 +1,2 @@
-# Simple-ish-C-game
+# Simple-ish-C++-game
 A simple-ish C++ RPG.
