@@ -4,5 +4,6 @@
 using namespace std;
 
 int main() {
-	part1();
+	// Calls the function with 2 paramaters. Health and maxNumber
+	part1(1000, 230);
 }
